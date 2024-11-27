@@ -1,0 +1,47 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: "Permanent Marker", cursive;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #690909;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+.chamada {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.historia {
+    background-color: #690909;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+}
